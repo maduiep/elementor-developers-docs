@@ -10,7 +10,7 @@ The documentation contained in this site includes descriptions of Elementor conc
 
 ## Docs Structure
 
-The top navigation bar is divided into three main areas:
+The top left navigation bar is divided into three main areas:
 
 * [Getting Started](./../getting-started/)
 * [Elementor Internals](./internals/)
